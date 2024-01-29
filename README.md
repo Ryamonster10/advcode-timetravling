@@ -17,10 +17,11 @@ Develop a program that can encode and decode messages using a unique, time-trave
 #### 2. Decoding Mechanism
 - Implement a decoding algorithm that precisely reverses the encoding process.
 - Ensure that the decoded message perfectly matches the original input.
+- You can ask the user for additional info here. For example, "What year was this from?" If you have different encoding techniques across dates. However, it is preferred to have the decoding algorithm detect this on its own.
 
 #### 3. User Interface
 - Develop a simple user interface (UI) for inputting the message, selecting encoding/decoding, and displaying the result.
-- The UI can be command-line based or graphical, depending on your preference and skill set.
+- The UI can be command-line-based or graphical, depending on your preference and skill set.
 
 #### 4. Originality and Creativity
 - The method of encoding and decoding should be original and creative. Avoid common or well-known cipher techniques.
@@ -36,9 +37,8 @@ Develop a program that can encode and decode messages using a unique, time-trave
 - **Encryption:** Add an extra layer of security by implementing a basic encryption before the encoding process.
 
 ## Evaluation Criteria
-Submissions will be judged based on creativity, originality, efficiency, robustness, and the quality of documentation. Bonus points for implementing optional enhancements.
+Submissions will be judged based on creativity, originality, efficiency, robustness, and documentation quality. Bonus points for implementing optional enhancements.
 
 ## Submission Instructions
-- Ensure your code is well-commented and clearly structured.
-- Provide a brief README explaining how to run your program and any dependencies required.
-- Submit your source code files and any additional materials before the deadline.
+- Ensure your code is well-commented and structured.
+- Provide a brief README explaining how to run your program and any dependencies required. This can be 1-2 sentences and should replace this file.
